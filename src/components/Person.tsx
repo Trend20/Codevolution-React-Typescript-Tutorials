@@ -1,5 +1,7 @@
 import React from "react";
 
+
+// OBJECT PROPS
 type PersonProps ={
   name:{
     first: string,
